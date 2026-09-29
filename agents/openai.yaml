@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Studio Labs GPT Dev Harness"
+  short_description: "Fluxo estruturado de desenvolvimento com GPT/Codex"
+  default_prompt: "Use o GPT Dev Harness para planejar, implementar e validar esta mudança no projeto."
